@@ -1,0 +1,32 @@
+body {
+	font-family: 'Titillium Web', Verdana, sans-serif;
+	padding-left: 150px;
+    padding-right: 150px;
+	color: #000000;
+}
+h1 {
+	text-decoration: underline;
+	font-weight: bold;
+}
+h2 {
+	padding-left: 10px;
+  margin-top: 6px;
+  margin-left: 5px;
+  margin-bottom: 6px;
+}
+ul {
+	list-style-type: none;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 150px;
+    /*background-color: #dbdbdb;*/
+    text-align: left + 20px;
+}
