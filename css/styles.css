@@ -1,22 +1,22 @@
 body {
-	font-family: 'Titillium Web', Verdana, sans-serif;
-	padding-left: 7%;
+    font-family: 'Titillium Web', Verdana, sans-serif;
+    padding-left: 7%;
     padding-right: 150px;
-	color: #000000;
+    color: #000000;
 }
 h1 {
-	font-weight: bold;
+    font-weight: bold;
 }
 h2 {
-	padding-left: 10px;
-	margin-top: 6px;
-	margin-left: 5px;
-	margin-bottom: 6px;
+    padding-left: 10px;
+    margin-top: 6px;
+    margin-left: 5px;
+    margin-bottom: 6px;
 }
 ul {
-	list-style-type: none;
-	margin-top: 5px;
-	margin-bottom: 10px;
+    list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 footer {
     position: fixed;
@@ -30,10 +30,10 @@ footer {
     text-align: left + 20px;
 }
 .navbar {
-	font-family: 'Titillium Web', Verdana, sans-serif;
-	padding-left: 7%;
+    font-family: 'Titillium Web', Verdana, sans-serif;
+    padding-left: 7%;
     padding-right: 150px;
-	list-style-type: none;
+    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
